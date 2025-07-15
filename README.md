@@ -1,4 +1,5 @@
-NYC Taxi Demand Prediction using Machine Learning
+NYC Taxi Demand Prediction using Machine Learning:
+
 This project aims to forecast hourly taxi demand across New York City by leveraging historical Yellow Taxi trip data and hourly weather conditions from January to March 2023. By combining trip-level data with weather variables, we train and evaluate several machine learning models to uncover patterns in ride demand. The goal is to support efficient fleet management, reduce passenger wait times, and enable data-driven decisions in urban transportation planning.
 
 🚀 Project Objective
